@@ -2,4 +2,4 @@
 
 My first React pratice Project.
 
-URL : https://kariray.github.io/react-for-beginners/[https://kariray.github.io/react-for-beginners/]
+URL : [https://kariray.github.io/react-for-beginners/]
